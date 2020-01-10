@@ -1,0 +1,10 @@
+C:\Users\Tuan\Documents\Sheridan\semester4\Web Services Using .NET & C#\Assignments\ThaoDoanAssignment1\ThaoDoanAssignment1\bin\Debug\ThaoDoanAssignment1.exe.config
+C:\Users\Tuan\Documents\Sheridan\semester4\Web Services Using .NET & C#\Assignments\ThaoDoanAssignment1\ThaoDoanAssignment1\bin\Debug\ThaoDoanAssignment1.exe
+C:\Users\Tuan\Documents\Sheridan\semester4\Web Services Using .NET & C#\Assignments\ThaoDoanAssignment1\ThaoDoanAssignment1\bin\Debug\ThaoDoanAssignment1.pdb
+C:\Users\Tuan\Documents\Sheridan\semester4\Web Services Using .NET & C#\Assignments\ThaoDoanAssignment1\ThaoDoanAssignment1\obj\Debug\ThaoDoanAssignment1.csprojAssemblyReference.cache
+C:\Users\Tuan\Documents\Sheridan\semester4\Web Services Using .NET & C#\Assignments\ThaoDoanAssignment1\ThaoDoanAssignment1\obj\Debug\ThaoDoanAssignment1.Form1.resources
+C:\Users\Tuan\Documents\Sheridan\semester4\Web Services Using .NET & C#\Assignments\ThaoDoanAssignment1\ThaoDoanAssignment1\obj\Debug\ThaoDoanAssignment1.Properties.Resources.resources
+C:\Users\Tuan\Documents\Sheridan\semester4\Web Services Using .NET & C#\Assignments\ThaoDoanAssignment1\ThaoDoanAssignment1\obj\Debug\ThaoDoanAssignment1.csproj.GenerateResource.cache
+C:\Users\Tuan\Documents\Sheridan\semester4\Web Services Using .NET & C#\Assignments\ThaoDoanAssignment1\ThaoDoanAssignment1\obj\Debug\ThaoDoanAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Tuan\Documents\Sheridan\semester4\Web Services Using .NET & C#\Assignments\ThaoDoanAssignment1\ThaoDoanAssignment1\obj\Debug\ThaoDoanAssignment1.exe
+C:\Users\Tuan\Documents\Sheridan\semester4\Web Services Using .NET & C#\Assignments\ThaoDoanAssignment1\ThaoDoanAssignment1\obj\Debug\ThaoDoanAssignment1.pdb
